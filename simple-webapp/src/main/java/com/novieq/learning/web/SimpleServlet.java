@@ -1,4 +1,4 @@
-package org.sonatype.mavenbook.web;
+package com.novieq.learning.web; 
 
 import java.io.*;
 import javax.servlet.*;
